@@ -63,9 +63,9 @@ house-price-app/
     └── 2_Interactive_Map.py        # UI for the map visualization
 ```
 ## TO CHANGE IN WEBSITE RUN BELOW CODE AFTER CHANGING IN VS CODE
-git add .
-git commit -m "Describe your change here"
-git push
+git add .<br>
+git commit -m "Describe your change here"<br>
+git push<br>
 
 
 ---
