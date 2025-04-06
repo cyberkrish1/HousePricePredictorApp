@@ -62,6 +62,12 @@ house-price-app/
     ├── 1_House_Price_Predictor.py  # UI for prediction tool
     └── 2_Interactive_Map.py        # UI for the map visualization
 ```
+## TO CHANGE IN WEBSITE RUN BELOW CODE AFTER CHANGING IN VS CODE
+git add .
+git commit -m "Describe your change here"
+git push
+
+
 ---
 # 👨‍💻 Author
 Developed by @cyberKrish[Krish Kumar]
