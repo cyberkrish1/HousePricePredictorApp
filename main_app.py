@@ -150,6 +150,12 @@ with col2:
 
 # --- Footer ---
 st.markdown(
-    "Crafted with ❤️ by *Krish, Ashutosh, Amit, and Harshit* 🧠",
+    """
+    <div style='text-align: center; padding-top: 50px;'>
+        👨‍💻👩‍💻 Made with ❤️ by 4 curious minds using 
+        <a href='https://streamlit.io' target='_blank'>Streamlit</a> 🚀<br>
+        📍 A Minor Project That Predicts House Prices 💸
+    </div>
+    """,
     unsafe_allow_html=True
 )
