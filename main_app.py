@@ -159,3 +159,12 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
+st.markdown(
+    """
+    <div style='text-align: center; padding-top: 50px;'>
+        "Minor Project © 2025 | Developed by **Krish,Ashutosh,AMit,Harshit* |"
+    </div>
+    """,
+    
+    unsafe_allow_html=True
+)
