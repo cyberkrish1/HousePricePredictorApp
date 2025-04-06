@@ -149,9 +149,7 @@ with col2:
         st.switch_page("pages/2_Interactive_Map.py")
 
 # --- Footer ---
-st.markdown("""
-<hr>
-<center style="color:white">
-Built with ❤️ using Streamlit
-</center>
-""", unsafe_allow_html=True)
+st.markdown(
+    "Crafted with ❤️ by *Krish, Ashutosh, Amit, and Harshit* 🧠",
+    unsafe_allow_html=True
+)
