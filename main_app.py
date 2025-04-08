@@ -152,7 +152,7 @@ with col2:
 st.markdown(
     """
     <div style='text-align: center; padding-top: 50px;'>
-        👨‍💻👩‍💻 Made with ❤️ by 4 curious minds using 
+        👨‍💻👩‍💻 Made with ❤️ by 3 curious minds using 
         <a href='https://streamlit.io' target='_blank'>Streamlit</a> 🚀<br>
         📍 A Minor Project That Predicts House Prices 💸
     </div>
@@ -162,7 +162,7 @@ st.markdown(
 st.markdown(
     """
     <div style='text-align: center; padding-top: 50px;'>
-        Minor Project © 2025 | Developed by ** Krish, Ashutosh, Amit, Harshit ** |
+        Minor Project © 2025 | Developed by ** Krish, Ashutosh, Amitt ** |
     </div>
     """,
     
