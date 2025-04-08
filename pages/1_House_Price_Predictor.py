@@ -54,7 +54,7 @@ input_dict = {
     "air_conditioned": 1 if air_conditioned == "yes" else 0
 }
 
-if st.button("Compare Predictions"):
+if st.button("Predictions"):
     final_input = prepare_input(input_dict, location, encoder, reference_columns)
     lin_pred = lin_reg.predict(final_input)[0]
     rf_pred = rf.predict(final_input)[0]
